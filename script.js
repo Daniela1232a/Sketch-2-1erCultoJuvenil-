@@ -92,22 +92,27 @@ function setVolume(name, volume) {
 }
 
 // Ejemplo de cómo añadir botones, puedes personalizar estos según tus necesidades
+createSoundButton('FONDO', '00FONDO.mp3', '0');
 createSoundButton('CAMBIO DE ESCENA', '1INICIO.mp3', '1');
-createSoundButton('CAMBIO DE PARTES', '0CIERRE.mp3', '0');
-createSoundButton('ALARMA', '2ALARMACLOCK.mp3','2');
-createSoundButton('ORACION', '3ORACION.mp3', '3');
-createSoundButton('RELOJ', '4RELOJ.mp3', '4');
-createSoundButton('PASOS', '5PASOS.mp3', '5');
-createSoundButton('RISAS', '6RISAS.mp3','6');
-createSoundButton('NO COMIDA', '7NONO.mp3', '7');
-createSoundButton('BARRIGA', '8TRIPAS.mp3', '8');
-createSoundButton('GRITO', '9GRITO.mp3', '9');
-createSoundButton('ORACION', '10ORACION.mp3', 'q');
-createSoundButton('CIELO', '11CIELO.mp3', 'w');
-createSoundButton('SUSURROS', '12SUSURROS.mp3', 'e');
-createSoundButton('CIERRE LIBRO', '13LIBRO.mp3', 'r');
-createSoundButton('CIELO', '14CIELO.mp3', 't');
-createSoundButton('SUSURROS', '15SUSURROS.mp3', 'y');
-createSoundButton('CAMPANAS', '16CAMPANAS.mp3', 'u');
-createSoundButton('OFRENDA', '17OFRENDA.mp3', 'i');
-createSoundButton('TRISTEZA', '18TRISTEZA.mp3', 'o');
+createSoundButton('CAMBIO DE PARTES', '0CIERRE.mp3', '2');
+createSoundButton('ALARMA', '2ALARMACLOCK.mp3','3');
+createSoundButton('LEVANTARSE', '2.1LEVANTAR.mp3', '4');
+createSoundButton('ORACION', '3ORACION.mp3', '5');
+createSoundButton('RELOJ', '4RELOJ.mp3', '6');
+createSoundButton('PASOS', '5PASOS.mp3', '7');
+createSoundButton('RESTAURANTE', '5.1RESTAURANTE.mp3', '8');
+createSoundButton('RISAS', '6RISAS.mp3','9');
+createSoundButton('CHARLA', '6.1CHARLA.mp3', 'q');
+createSoundButton('NO COMIDA', '7NONO.mp3', 'w');
+createSoundButton('BARRIGA', '8TRIPAS.mp3', 'e');
+createSoundButton('ORACION', '10ORACION.mp3', 'r');
+createSoundButton('CIELO', '11CIELO.mp3', 't');
+createSoundButton('ALELUYA', '10.1ALELUYA.mp3', 'y');
+createSoundButton('SUSURROS', '12SUSURROS.mp3', 'u');
+createSoundButton('CIERRE LIBRO', '13LIBRO.mp3', 'i');
+createSoundButton('CIELO', '14CIELO.mp3', 'o');
+createSoundButton('SUSURROS', '15SUSURROS.mp3', 'p');
+createSoundButton('CAMPANAS', '16CAMPANAS.mp3', 'a');
+createSoundButton('OFRENDA', '17OFRENDA.mp3', 's');
+createSoundButton('TRISTEZA', '18TRISTEZA.mp3', 'd');
+createSoundButton('SAD', '18SAD.mp3', 'f');
