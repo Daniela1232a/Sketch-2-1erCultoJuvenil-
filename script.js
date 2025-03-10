@@ -1,5 +1,5 @@
 const soundMap = {};
-
+ 
 function createSoundButton(name, filename, keyCombination = null) {
   const container = document.createElement('div');
   container.classList.add('sound-container');
