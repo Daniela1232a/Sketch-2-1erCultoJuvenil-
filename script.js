@@ -100,7 +100,7 @@ createSoundButton('LEVANTARSE', '2.1LEVANTAR.mp3', '4');
 createSoundButton('ORACION', '3ORACION.mp3', '5');
 createSoundButton('RELOJ', '4RELOJ.mp3', '6');
 createSoundButton('PASOS', '5PASOS.mp3', '7');
-createSoundButton('RESTAURANTE', '5.1RESTAURANTE.mp3', '8');
+createSoundButton('RESTAURANTE', '5.1RESTAURANTE .mp3', '8');
 createSoundButton('RISAS', '6RISAS.mp3','9');
 createSoundButton('CHARLA', '6.1CHARLA.mp3', 'q');
 createSoundButton('NO COMIDA', '7NONO.mp3', 'w');
