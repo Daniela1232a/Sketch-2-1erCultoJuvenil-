@@ -92,21 +92,18 @@ function setVolume(name, volume) {
 }
 
 // Ejemplo de cómo añadir botones, puedes personalizar estos según tus necesidades
-createSoundButton('FONDO', '00FONDO.mp3', '0');
 createSoundButton('CAMBIO DE ESCENA', '1INICIO.mp3', '1');
 createSoundButton('CAMBIO DE PARTES', '0CIERRE.mp3', '2');
-createSoundButton('ALARMA', '2ALARMACLOCK.mp3','3');
-createSoundButton('ORACION', '3ORACION.mp3', '4');
-createSoundButton('RELOJ', '4RELOJ.mp3', '5');
+createSoundButton('ORACION', '3ORACION.mp3', '3');
+createSoundButton('CORO', 'COROSANTO.mp3', '4');
+createSoundButton('ALARMA', '2ALARMACLOCK.mp3','5');
 createSoundButton('PASOS', '5PASOS.mp3', '6');
-createSoundButton('ENFADO', '9JEFEENFADADO.mp3', '7');
-createSoundButton('ORACION', '10ORACION.mp3', '8');
-createSoundButton('CIELO', '11CIELO.mp3', '9');
-createSoundButton('CORO', 'COROSANTO.mp3', 'q');
-createSoundButton('SUSURROS', '12SUSURROS.mp3', 'w');
-createSoundButton('CIERRE LIBRO', '13LIBRO.mp3', 'e');
-createSoundButton('CIELO', '14CIELO.mp3', 'r');
-createSoundButton('SUSURROS', '15SUSURROS.mp3', 't');
+createSoundButton('CORO', 'COROSANTO.mp3', '7');
+createSoundButton('ALELUYA', 'ALELUYA.mp3', '8');
+createSoundButton('PUBLICO 1', 'PUBLICO1.mp3', '9');
+createSoundButton('PUBLICO 2', 'PUBLICO2.mp3', 'q');
+createSoundButton('ORACION', '10ORACION.mp3', 'w');
+createSoundButton('DRAMA', 'DRAMA.mp3', 'e');
+createSoundButton('CORO', 'COROSANTO.mp3', 'r');
+createSoundButton('SUSURROS', '12SUSURROS.mp3', 't');
 createSoundButton('CAMPANAS', '16CAMPANAS.mp3', 'y');
-createSoundButton('OFRENDA', '17OFRENDA.mp3', 'u');
-createSoundButton('SAD', '18SAD.mp3', 'i');
