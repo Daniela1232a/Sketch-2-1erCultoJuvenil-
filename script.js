@@ -102,7 +102,7 @@ createSoundButton('CORO', 'COROSANTO.mp3', '7');
 createSoundButton('ALELUYA', 'ALELUYA.mp3', '8');
 createSoundButton('PUBLICO 1', 'PUBLICO1.mp3', '9');
 createSoundButton('PUBLICO 2', 'PUBLICO2.mp3', 'q');
-createSoundButton('ORACION', '10ORACION.mp3', 'w');
+createSoundButton('ORACION', '3ORACION.mp3', 'w');
 createSoundButton('DRAMA', 'DRAMA.mp3', 'e');
 createSoundButton('CORO', 'COROSANTO.mp3', 'r');
 createSoundButton('SUSURROS', '12SUSURROS.mp3', 't');
